@@ -23,3 +23,13 @@ h1 {
     color: #30AFE7;
     text-decoration: none;
 }
+
+/* #articleInfo {
+
+} */
+
+#pictureInfo {
+    font-size: 12px;
+    font-weight: 400;
+    margin: 0px;
+}
