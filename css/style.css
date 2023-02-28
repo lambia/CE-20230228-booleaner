@@ -33,3 +33,21 @@ h1 {
     font-weight: 400;
     margin: 0px;
 }
+
+table {
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: #20A9E5;
+    color: white;
+    text-align: left;
+}
+
+.smallHeading {
+    width: 20%;
+}
+
+.oddRow {
+    background-color: #B1E5F2;
+}
